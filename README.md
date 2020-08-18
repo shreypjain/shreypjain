@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 Awesome to meet you. I'm Shrey, a software engineer looking to learn new things and build new products. Excited to build the future!
 <!--
