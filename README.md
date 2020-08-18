@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Awesome to meet you. I'm Shrey, a develkoper and innovator
+Awesome to meet you. I'm Shrey, a software engineer looking to learn new things and build new products. Excited to build the future!
 <!--
 **sjain23/sjain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
