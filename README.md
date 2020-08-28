@@ -7,6 +7,7 @@ Awesome to meet you. I'm Shrey, an innovator looking to build products, or help 
 ✉️ : jainshreyp@gmail.com
 <!--
 **sjain23/sjain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -24,4 +25,3 @@ Any new projects or ideas anyone has. I would love to hear about them.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
