@@ -1,6 +1,8 @@
-### Hello 😁
+### Hello 
 
 Awesome to meet you. I'm Shrey, an innovator looking to make something new . If you have any ideas, questions, or just want to talk about life, definitely reach out. Excited to build the future!
+
+Currently building ➡️ Gamma Ventures and Subscribr
 
 📲   : +1 732-799-8071
 
