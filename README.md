@@ -2,7 +2,7 @@
 
 Awesome to meet you. I'm Shrey, an innovator looking to make something new . If you have any ideas, questions, or just want to talk about life, definitely reach out. Excited to build the future!
 
-Currently building ➡️ <b><a href="https://snackpass.co">Snackpass</a></b> and <b><a href="https://qlue.netlify.app">Qlue</a></b>
+Currently building ➡️ <b><a href="https://snackpass.co" target="_blank">Snackpass</a></b> and <b><a href="https://qlue.netlify.app" target="_blank">Qlue</a></b>
 
 📲   : +1 732-799-8071
 
