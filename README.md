@@ -10,3 +10,6 @@ Currently building ➡️ <b><a href="https://snackpass.co" target="_blank">Snac
 <!--
 **sjain23/sjain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreypjain)](https://github.com/anuraghazra/github-readme-stats)
+
