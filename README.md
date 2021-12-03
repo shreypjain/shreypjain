@@ -1,6 +1,6 @@
 ### Hello 
 
-Awesome to meet you. I'm Shrey, an innovator looking to make something new . If you have any ideas, questions, or just want to talk about life, definitely reach out. Excited to build the future!
+If you're interested in building your own public API, reach out. 
 
 Currently building ➡️ <b><a href="https://integralapp.co" target="_blank">Integral</a></b>
 
