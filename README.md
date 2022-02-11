@@ -2,7 +2,7 @@
 
 If you're interested in building your own public API, reach out. 
 
-Currently building ➡️ <b><a href="https://integralapp.co" target="_blank">Integral</a></b>
+Currently building ➡️ <b><a href="https://integralapp.co" target="_blank">Integral</a></b> and Software Engineer @ <b><a href="https://truework.com" target="_blank">Truework</a></b>
 
 📲   : +1 732-799-8071
 
